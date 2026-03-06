@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.osteopathie-nantes.fr/sitemap-index.xml
