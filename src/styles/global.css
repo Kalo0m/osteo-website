@@ -141,6 +141,11 @@ p {
   font-size: 0.85rem !important;
   font-weight: 600 !important;
   transition: background 0.3s ease, transform 0.2s ease !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  padding-bottom: 0.6rem !important;
 }
 
 .nav-cta:hover {
